@@ -1,2 +1,2 @@
 # sql-server
-Scripts SQL server para estudo.
+Scripts SQL server utilizados nos meus conteúdos.
