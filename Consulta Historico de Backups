@@ -1,4 +1,4 @@
---HISTÓRICO DOS BACKUPS REALIZADOS NA INSTÂNCIA
+--Consulta para Obter o Histórico de Backups Realizados na Instância do SQL Server
 
 SELECT
     B.[database_name],
